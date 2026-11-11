@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/16.0
+vled
+!s110 1790866256
+!i10b 1
+!s100 JmYM][MV;^?lff7V]DjZd1
+IJJ6?l>DNO5T6zQQdU_MOY3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Herob/Desktop/project/LED_lightup/sim
+w1790866252
+8C:/Users/Herob/Desktop/project/LED_lightup/rtl/led.v
+FC:/Users/Herob/Desktop/project/LED_lightup/rtl/led.v
+L0 1
+Z2 OV;L;10.4d;61
+r1
+!s85 0
+31
+!s108 1790866256.000000
+!s107 C:/Users/Herob/Desktop/project/LED_lightup/rtl/led.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Herob/Desktop/project/LED_lightup/rtl/led.v|
+!i113 1
+Z3 o-work work
+vtb_led
+!s110 1790866239
+!i10b 1
+!s100 0:czKX359=1Y6BW<9S;ih3
+I@UlY>:=@419kKKn5D4ge@2
+R0
+R1
+w1790866066
+8C:/Users/Herob/Desktop/project/LED_lightup/rtl/tb_led.v
+FC:/Users/Herob/Desktop/project/LED_lightup/rtl/tb_led.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1790866239.000000
+!s107 C:/Users/Herob/Desktop/project/LED_lightup/rtl/tb_led.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Herob/Desktop/project/LED_lightup/rtl/tb_led.v|
+!i113 1
+R3

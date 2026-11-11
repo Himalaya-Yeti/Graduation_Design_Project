@@ -1,0 +1,15 @@
+C:/Users/Herob/Desktop/project/LED_lightup/rtl/led.v {1 {vlog -work work -stats=none C:/Users/Herob/Desktop/project/LED_lightup/rtl/led.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module led
+
+Top level modules:
+	led
+
+} {} {}} C:/Users/Herob/Desktop/project/LED_lightup/rtl/tb_led.v {1 {vlog -work work -stats=none C:/Users/Herob/Desktop/project/LED_lightup/rtl/tb_led.v
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module tb_led
+
+Top level modules:
+	tb_led
+
+} {} {}}
